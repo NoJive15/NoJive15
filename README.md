@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoJive15
 - 👀 I’m interested in ...Cyber Security  
 - 🌱 I’m currently learning ...Coding
-- 💞️ I’m looking to collaborate on ...Fantasy Football/Bseball
+- 💞️ I’m looking to collaborate on ...Fantasy Football/Baseball
 - 📫 How to reach me ...on here for now
 
 <!---
